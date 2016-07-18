@@ -2,6 +2,7 @@ name: "vimgifs"
 descripiton: "If you can watch gifs you can learn vim"
 author: "mrmrs"
 url: "http://localhost:4000"
+gems: [jekyll-paginate]
 paginate: 5
 
 # Style of permalinks
